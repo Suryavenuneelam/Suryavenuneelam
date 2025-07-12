@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **suryavenunnsv@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1jOfdRHHtdQ5_ZQCmvNMUh9ScRHgla0fl/view](https://drive.google.com/file/d/1jOfdRHHtdQ5_ZQCmvNMUh9ScRHgla0fl/view)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Q0ShTA0kHiQ8lnM9WZ_r9h7EkU1BaVYO/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
