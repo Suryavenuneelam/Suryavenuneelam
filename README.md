@@ -1,7 +1,7 @@
 <img src="./github-header-image.png" alt="Header" style="width: 100%;">
 
 <h1 align="center">Hi 👋, I'm Neelam Naga Saivenkata Suryavenu</h1>
-<h3 align="center">A passionate full-stack developer from India</h3>
+<h3 align="center">A passionate Full-Stack Developer from India</h3>
 
 - 🔭 I’m currently working on [Suryavenu's Portfolio](https://github.com/Suryavenuneelam/portfolio)
 
